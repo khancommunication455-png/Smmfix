@@ -1,0 +1,1 @@
+/vendor/\nnode_modules/\n.env\n.env.local\n.env.*.local\n.env.backup\n.env.example.backup\nstrorage.zip\n.DS_Store\n.vscode/\n.idea/\n*.iml\n.phpunit.result.cache\nbuild/\ndist/\n

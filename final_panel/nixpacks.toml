@@ -1,0 +1,1 @@
+[build]\nproviders = [\"nixpkgs\"]\n\n[build.nixpkgs]\nphp-extensions = [\"pkg-config\" \"openssl\" \"pcre\" \"curl\" \"zlib\" \"libzip\"]\n\n[environments]\nPHP_VERSION = \"8.2\"\nCOMPOSER_FLAGS = \"--no-dev --prefer-dist --optimize-autoloader\"\n
